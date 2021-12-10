@@ -68,7 +68,7 @@ while True:
     elif (c.lower() == 'k'):                                                                   
         print('\n')
         print(23*'=')
-        print("Nama\t: Jujun Junaedi\nKelas\t: TI.21.C5\nNIM\t: 312110568")
+        print("Nama\t: Irfan Maulana Falah\nKelas\t: TI.21.C5\nNIM\t: 312110560")
         print(23*'=')
         break                                                                                 
 
